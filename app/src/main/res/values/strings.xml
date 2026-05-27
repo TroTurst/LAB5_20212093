@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Recordatorios</string>
+    <string name="no_events">No hay eventos programados</string>
+    <string name="label_name">Nombre del evento</string>
+    <string name="label_date">Seleccionar fecha</string>
+    <string name="label_periodicity">Periodicidad</string>
+    <string name="opt_once">Unica vez</string>
+    <string name="opt_annual">Anual</string>
+    <string name="label_notify">Notificar</string>
+    <string name="notify_same_day">El mismo dia</string>
+    <string name="notify_1_day">1 dia antes</string>
+    <string name="notify_3_days">3 dias antes</string>
+    <string name="notify_1_week">1 semana antes</string>
+    <string name="btn_save">Guardar</string>
+    <string name="channel_annual_name">Eventos Anuales</string>
+    <string name="channel_once_name">Eventos Unicos</string>
+    <string name="add_event">Agregar evento</string>
+    <string name="open_calendar">Calendario</string>
+    <string name="include_time">Incluir hora</string>
+    <string name="time_left_today">Hoy!</string>
+    <string name="time_left_past">Pasado</string>
+    <string name="delete_event">Eliminar evento</string>
+
+    <string-array name="notify_options">
+        <item>@string/notify_same_day</item>
+        <item>@string/notify_1_day</item>
+        <item>@string/notify_3_days</item>
+        <item>@string/notify_1_week</item>
+    </string-array>
+</resources>
